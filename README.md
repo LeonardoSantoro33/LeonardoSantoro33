@@ -5,8 +5,8 @@ BSc student in Computer and Automation Engineering at Sapienza University of Rom
 ## Research
 Supervised by Prof. Fabrizio Silvestri and Prof. Franco Maria Nardini. Manuscript in preparation.
 
-- [splade-concept-model](https://github.com/LeonardoSantoro33/splade-concept-model): concept model g(x) = W·SPLADE(x) for sparse-to-dense retrieval, with frozen, end-to-end and hybrid variants, evaluated on MS MARCO and BEIR.
-- [sparseup-concept-model](https://github.com/LeonardoSantoro33/sparseup-concept-model): the same concept model ported to SparseUp, a ModernBERT-based sparse retriever, with the same three variants, evaluated on MS MARCO and BEIR.
+- [splade-concept-model](https://github.com/LeonardoSantoro33/splade-concept-model): concept model g(x) = W·SPLADE(x) for sparse-to-dense retrieval, with frozen, end-to-end and hybrid variants, evaluated on MS MARCO and BEIR (NFCorpus, SciFact and FiQA).
+- [sparseup-concept-model](https://github.com/LeonardoSantoro33/sparseup-concept-model): the same concept model ported to SparseUp, a ModernBERT-based sparse retriever, with the same three variants, evaluated on MS MARCO and BEIR (NFCorpus, SciFact, FiQA, NQ).
 - [splare-lce](https://github.com/LeonardoSantoro33/splare-lce): training-free query expansion in the latent space of SPLARE, using a co-occurrence matrix of latents, evaluated on MS MARCO.
 
 ## Projects
