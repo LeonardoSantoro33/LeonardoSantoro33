@@ -11,4 +11,4 @@ Supervised by Prof. Fabrizio Silvestri and Prof. Franco Maria Nardini. Manuscrip
 
 ## Projects
 - [splade-lens](https://github.com/LeonardoSantoro33/splade-lens): see which terms SPLADE adds to a query and a document, where each comes from, and what the score is made of.
-  [Live demo](https://leonardosantoro33.github.io/splade-lens/)
+     [Live demo](https://leonardosantoro33.github.io/splade-lens/)
